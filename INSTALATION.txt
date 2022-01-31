@@ -1,0 +1,29 @@
+
+
+You can use git software
+
+You can use ubuntu shell window 
+
+
+
+1. How Install git . 
+
+first open brower search for git . 
+
+Go for git website 
+
+Download git with choesing opearting system 
+
+After downloading install it .
+
+2. How install ubuntu.
+
+Fistly enable the virtulization.
+
+Going to window setting / enable window for window .
+
+Open app store/ seach for a ubuntu .
+
+after get it open its & run . 
+
+... 
