@@ -36,3 +36,5 @@ Github is an application that allow you to store and intract with your repositor
 
 GIt -
 Git is a sourcecontrol software allow you to take snapshot and distribute your creation  & modification
+
+GIT IS A BONES AND FLESH OF SOURCE CONTROL WHILE GITHUB PROVIDE A PLATFORM TO WORK WITH THE REPOSITORIES EASILY.
