@@ -1,0 +1,38 @@
+                    
+
+                SOURCE CONTROL -  
+
+SOURCE Control or version control is a way tracking a file Progress over time .
+
+Source Control allow us -
+
+Distribuate your file Changes over time . 
+Prevent against data loss /damage by creating backup snapshot 
+Manage complex Project structure. 
+
+                    GIT - 
+
+
+git is a sourcecontrol software .
+created by linux founder.
+
+            WHY WE USE IT ? .
+
+Popular source control software.
+Its has intefration of many application 
+{EXAMPLE  - Sourcetree , heroku, github}
+
+
+              GIT vs GITHUB - 
+
+  GITHUB - 
+
+gIThub is a application that allow us to store remote repositories .
+You can intract with git repositories by push and pull method on your local machine . 
+Github usally primarily allow people to add a project{ open source}
+Github allow more than yourself to intact with the repositories . 
+
+Github is an application that allow you to store and intract with your repositories as a remote server .
+
+GIt -
+Git is a sourcecontrol software allow you to take snapshot and distribute your creation  & modification
